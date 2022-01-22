@@ -1,5 +1,5 @@
 # Loan-Prediction-Using-ML-and-Python
-Building a model which can predict whether an applicants loan is approved or not
+Building a model which can predict whether an applicant's loan is approved or not
 # Overview
 1. Problem Statement
 2. Imorting the Libraries and datasets
