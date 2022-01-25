@@ -37,6 +37,9 @@ Building a model which can predict whether an applicant's loan will be approved 
 16. Semiurban Applicants 10% higher chance of loan approval than urban and rural.
 # Results
 Random Forest Accuracy Score = 0.772358
+
 After Hyperparameter Tuning = 0.7886178861788617
+
 In Confusion Matrix FP=25 i.e., model predicted positive but it is false
+
 Precision of model for Non Approval is 0.947368 (its good as company don't want to approve loans to those can't payback).
